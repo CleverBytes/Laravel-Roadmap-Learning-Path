@@ -64,7 +64,7 @@ Inside of the repository above, you will find all the details of the task, with 
 
 ## Advanced Beginner Level
 The goal of this level is to find the first job or freelance gig
-
+If you want to add a topic, link, or any other suggestion, please open Issues or Pull Requests.
 __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :capital_abcd: Course__ 
 
 | Topic | Learning Links |
